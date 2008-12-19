@@ -7,6 +7,8 @@ h1. {{ page.title }}
 
 p(meta). 18 Dec 2008 - Chandler, AZ USA
 
-If you are reading this, then it is obvious that I took the steps to publish some web content via "GitHub":http://github.com Pages.  See the "GitHub Pages blog post announcement":http://github.com/blog/272-github-pages .
+If you are reading this, then it is obvious that I took the steps to publish some web content via "GitHub":http://github.com Pages.  See the "GitHub Pages blog post announcement":http://github.com/blog/272-github-pages.
 
-I hope to continue to add stuff to my slice of "GitHub":http://github.com .
+Thanks to all at "GitHub":http://github.com.  This is cool.
+
+I hope to continue to add stuff to my slice of "GitHub":http://github.com.
