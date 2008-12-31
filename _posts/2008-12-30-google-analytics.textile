@@ -1,0 +1,16 @@
+---
+layout: post
+title: Google Analytics
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 Dec 2008 - Chandler, AZ USA
+
+I just added "Google Analytics":http://www.google.com/analytics/ to "jsmorris.github.com":http://jsmorris.github.com.
+
+I am using this as a learning experience to find out what "Google Analytics":http://www.google.com/analytics/ can do for a website.
+
+It was very simple to create your account, add the two blocks of javascript to each page on your website, and verify that it was pulling data.
+
+I will not have much traffic here until I reach one of my goals for 2009 which will be to create a community or at least a small following of users who will visit my site and read my blog.
